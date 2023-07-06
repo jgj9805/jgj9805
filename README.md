@@ -1,6 +1,6 @@
 ### 🚀 About Me
 
-#### 백엔드 개발자가 되고싶은 서택상 입니다.
+#### 백엔드 개발자가 되고싶은 정규진 입니다.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
